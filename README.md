@@ -15,4 +15,6 @@ Display Scene: Live streaming screen, AI interaction panel, and virtual lab.
 Image Storage: All images can be stored in Azure Blob Storage for later review.
 
 VR Compatibility: Designed for immersive VR experiences
+
+
 ![images_alt](idea.jpg)
